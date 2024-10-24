@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zodiqecu.github.io/sitemap/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/Bfx/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/LNj/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/cLG/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/okf/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/oDb/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/kWR/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/QKY/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/IuF/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/FLx/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/lOY/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/xXN/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/YTy/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/MQn/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/KQn/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/Tfh/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/AuH/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/SmT/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/Qmy/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/rsU/sitemap_index.zodiqecu
+Sitemap: https://zodiqecu.github.io/JYn/sitemap_index.zodiqecu
